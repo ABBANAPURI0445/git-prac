@@ -21,4 +21,4 @@
       git add .
       git commit -m "payment method"
       git push
-      ```
+      ```  
