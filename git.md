@@ -13,7 +13,7 @@
       ```
    2. push content from local repository to remote repository 
       1. working tree 
-      2. staging/inddex area
+      2. staging/index area
       3. local repo
       4. remote repo
       ```
